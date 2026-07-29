@@ -1,2 +1,29 @@
-# dmart-sales-powerbi-dashboard
-Developed an interactive Power BI dashboard analyzing 25K+ DMart retail transactions. Built sales, customer, product, operations, and payment analytics using Power Query and DAX with interactive KPI cards, charts, slicers, and business insights to support data-driven decisions.
+# DMart Sales & Operational Intelligence Dashboard
+
+## Overview
+Developed an interactive Power BI dashboard to analyze 25,000+ retail transactions.
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+## Features
+- Sales & Revenue Analysis
+- Customer Analytics
+- Product Performance
+- Operational Performance
+- Payment & Order Status
+- Interactive Slicers
+- KPI Cards
+- Drill-through
+- Conditional Formatting
+
+## Dashboard Pages
+- Home
+- Sales & Revenue Trends
+- Customer Demographics & Behavior
+- Product & Pricing Insights
+- Operational Performance
+- Payment & Order Status
